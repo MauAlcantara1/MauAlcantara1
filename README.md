@@ -1,5 +1,5 @@
 - 👋 Hola, soy Mau Alcantara
-- 👀 Ahora mismo est
+- 👀 Ahora mismo
 - 🌱 Ahora mismo soy estudiante de sexto semestre en ingenieria en computacion
 - 💞️ Quiero repasar lo que he visto hasta ahora en mi escuela
 
