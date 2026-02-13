@@ -32,6 +32,10 @@
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
+  &emsp;
+  <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank"> 
+    <img alt="C#" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
 </p>
 
 
@@ -48,10 +52,7 @@
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-	  &emsp;
-  <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
+	  
 </p>
 
 ### 👉 Databases & Cloud Hosting
