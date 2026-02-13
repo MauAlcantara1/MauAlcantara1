@@ -58,7 +58,7 @@
   &emsp;
 	<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon.png"></a>
   &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
+    <a href="https://www.sqlite.org/"><img alt="Adobe Premiere Pro" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
   &emsp;
     
  </p>
