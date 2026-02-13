@@ -109,7 +109,7 @@
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 	&emsp;
-    <a href="#"><img alt="MATLAB" src="https://es.mathworks.com/products/matlab.html"></a>
+    <a href="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Logo.png"><img alt="MATLAB" src="https://es.mathworks.com/products/matlab.html"></a>
 	
   &emsp;
 </p>
