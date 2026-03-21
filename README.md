@@ -60,7 +60,8 @@
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
-	<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon.png"></a>
+	<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F441%2F460%2Fpng-transparent-postgresql-plain-wordmark-logo-icon.png
+"></a>
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="Adobe Premiere Pro" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
   &emsp;
@@ -85,7 +86,7 @@
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-	&emsp;
+  &emsp;
     <a href="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Logo.png"><img alt="MATLAB" src="https://es.mathworks.com/products/matlab.html"></a>
 	
   &emsp;
