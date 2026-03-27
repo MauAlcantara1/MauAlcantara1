@@ -16,7 +16,46 @@ Disfruto aprender constantemente, explorar nuevas tecnologías y aplicar solucio
 <br>
 <h1 align="center">Programming languages/ Lenguajes de Programación</h1>
 
-###
+### 🎯 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🎮 Game Development
+Desarrollo videojuegos y experiencias interactivas en Unity, enfocándome en **arquitectura limpia**, sistemas modulares y código mantenible.
+
+**Enfoque:** mecánicas sólidas + sistemas bien estructurados = experiencias escalables
+
+</td>
+<td width="50%">
+
+#### 🧠 Data Science & Machine Learning
+Actualmente enfocado en Python, explorando **análisis de datos** y **modelos de machine learning** para entender patrones y construir soluciones inteligentes.
+
+**Interés:** convertir datos en decisiones
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🛠️ Software Engineering
+Construyo herramientas y sistemas con buenas prácticas de desarrollo, priorizando claridad, organización y escalabilidad del código.
+
+*Clean Architecture • Modularidad • Resolución de problemas*
+
+</td>
+<td width="50%">
+
+#### 📚 Continuous Learning
+Siempre aprendiendo nuevas tecnologías y enfoques. Me interesa entender el "por qué" detrás de los sistemas y mejorar constantemente mis habilidades.
+
+*Curiosidad + disciplina = crecimiento constante*
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
