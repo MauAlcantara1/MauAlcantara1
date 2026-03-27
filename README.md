@@ -14,7 +14,6 @@ Me apasiona la programación, el diseño y la experimentación, especialmente cu
 Disfruto aprender constantemente, explorar nuevas tecnologías y aplicar soluciones prácticas a problemas reales. Me considero una persona curiosa, tranquila y con facilidad para socializar, siempre abierta a colaborar y seguir desarrollándome en el área de Data Science e Inteligencia Artificial.
 </h4>
 <br>
-<h1 align="center">Programming languages/ Lenguajes de Programación</h1>
 
 ### 🎯 What I Do
 
@@ -22,40 +21,45 @@ Disfruto aprender constantemente, explorar nuevas tecnologías y aplicar solucio
 <tr>
 <td width="50%">
 
-#### 🎮 Game Development
-Desarrollo videojuegos y experiencias interactivas en Unity, enfocándome en **arquitectura limpia**, sistemas modulares y código mantenible.
+#### 🐍 Python Development
+Desarrollo proyectos en Python enfocados en lógica, automatización y construcción de sistemas funcionales.
 
-**Enfoque:** mecánicas sólidas + sistemas bien estructurados = experiencias escalables
+**Proyectos destacados:**
+- 📂 [Organizador Inteligente de Archivos Académicos](https://github.com/MauAlcantara1/Organizador-Inteligente-de-Archivos-Acad-micos)  
+- 🎮 [RPG en Python](https://github.com/MauAlcantara1/rpg-en-python)
 
 </td>
 <td width="50%">
 
 #### 🧠 Data Science & Machine Learning
-Actualmente enfocado en Python, explorando **análisis de datos** y **modelos de machine learning** para entender patrones y construir soluciones inteligentes.
+Actualmente aprendiendo y explorando el mundo del análisis de datos y machine learning con Python, entendiendo cómo transformar datos en información útil.
 
-**Interés:** convertir datos en decisiones
+**Enfoque:** aprender, experimentar y aplicar
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-#### 🛠️ Software Engineering
-Construyo herramientas y sistemas con buenas prácticas de desarrollo, priorizando claridad, organización y escalabilidad del código.
+#### 🔄 Continuous Learning
+Siempre aprendiendo nuevas tecnologías, conceptos y formas de mejorar como desarrollador. Me gusta entender a fondo cómo funcionan las cosas y evolucionar constantemente.
 
-*Clean Architecture • Modularidad • Resolución de problemas*
+**Mentalidad:** mejora continua todos los días
 
 </td>
 <td width="50%">
 
-#### 📚 Continuous Learning
-Siempre aprendiendo nuevas tecnologías y enfoques. Me interesa entender el "por qué" detrás de los sistemas y mejorar constantemente mis habilidades.
+#### 🌿 Git & Team Collaboration
+Experiencia trabajando con Git y GitHub en entornos colaborativos. He enseñado Git como proyecto académico y frecuentemente tomo el rol de organizar repositorios y flujos de trabajo en equipo.
 
-*Curiosidad + disciplina = crecimiento constante*
+**Skills:** ramas, merges, resolución de conflictos, buenas prácticas
 
 </td>
 </tr>
 </table>
+<h1 align="center">Programming languages/ Lenguajes de Programación</h1>
+
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
