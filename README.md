@@ -1,4 +1,4 @@
-h2 align="center">Hola, soy Alcantara Cruz Donovan Amaury 👋</h2>
+<h2 align="center">Hola, soy Alcantara Cruz Donovan Amaury 👋</h2>
 <h3 align="center">aunque me suelen decir <strong>Mau</strong></h3>
 <p align="center">
   <a href="https://git.io/typing-svg">
