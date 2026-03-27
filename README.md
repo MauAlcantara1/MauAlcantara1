@@ -7,7 +7,6 @@
 
 <h4 align="center">Soy estudiante de séptimo semestre de Ingeniería en Computación. Me apasiona la programación, el diseño y la experimentación. Disfruto entender el "por qué" de las cosas, conocer nuevas personas, aprender constantemente y superarme cada día. Me considero alguien tranquilo, curioso y con facilidad para socializar. </h4>
 <br>
-
 <h1 align="center">Programming languages/ Lenguajes de Programación</h1>
 
 ###
@@ -54,7 +53,7 @@
 
 ###
 
-<h1 align="left">Software & Tools / Software y herramientas</h1>
+<h1 align="center">Software & Tools / Software y herramientas</h1>
 
 ###
 
@@ -120,6 +119,18 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MauAlcantara1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=radical"  />
 </div>
 
 ###
