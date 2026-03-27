@@ -94,23 +94,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MauAlcantara1/MauAlcantara1/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MauAlcantara1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=radical"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MauAlcantara1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
