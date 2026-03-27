@@ -15,13 +15,12 @@ Disfruto aprender constantemente, explorar nuevas tecnologías y aplicar solucio
 </h4>
 <br>
 
-### 🎯 What I Do
-
 <table>
 <tr>
 <td width="50%">
 
 #### 🐍 Python Development
+En aprendizaje del lenguaje Python y enfocado en realizar proyectos para mejorar mi nivel
 Desarrollo proyectos en Python enfocados en lógica, automatización y construcción de sistemas funcionales.
 
 **Proyectos destacados:**
