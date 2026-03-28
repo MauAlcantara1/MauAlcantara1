@@ -84,6 +84,20 @@ Desarrollado en **Java**, demuestra conocimientos en diseño de compiladores, an
 
 ---
 
+<table>
+<tr>
+<td>
+
+### Mi forma de mejorar
+> Mejorar cada día, paso a paso, siendo una mejor versión de mí mismo sin olvidar disfrutar el camino. Creo en la importancia de seguir adelante incluso cuando las cosas se complican, manteniendo siempre la curiosidad y el deseo de aprender. Cada día representa una nueva oportunidad para crecer, descubrir y construir algo mejor que ayer.
+
+> *"Mientras haya vida, hay esperanza."* — Stephen Hawking
+
+</td>
+</tr>
+</table>
+---
+
 ## 📊 Aprendiendo: Data Science & Machine Learning
 
 > 🚧 **En construcción activa** — Estoy documentando mi proceso de aprendizaje en estas tecnologías. Aún no tengo proyectos terminados en esta área, pero es mi enfoque principal actualmente.
