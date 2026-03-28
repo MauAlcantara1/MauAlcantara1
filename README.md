@@ -26,6 +26,7 @@ Desarrollo proyectos en Python enfocados en lógica, automatización y construcc
 **Proyectos destacados:**
 - 📂 [Organizador Inteligente de Archivos Académicos](https://github.com/MauAlcantara1/Organizador-Inteligente-de-Archivos-Acad-micos)  
 - 🎮 [RPG en Python](https://github.com/MauAlcantara1/rpg-en-python)
+- 📂 [Aprendiendo Python] (https://github.com/MauAlcantara1/AprendiendoPython)
 
 </td>
 <td width="50%">
