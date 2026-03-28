@@ -84,7 +84,19 @@ Desarrollado en **Java**, demuestra conocimientos en diseño de compiladores, an
 </table>
 
 ---
+### 🎮 Metal-Slug-Unity
+> *Proyecto final: recreación del clásico arcade Metal Slug en Unity*
 
+Un juego completo desarrollado como proyecto final de curso que simula la experiencia de **Metal Slug**. Implementa 5 niveles jugables, 1 tutorial, 6 tipos de enemigos, sistema de puntuación, vidas, game over, selección de niveles, sonido, animaciones y modo para **dos jugadores**.
+
+Desarrollado en **Unity con C#**, demuestra conocimientos en desarrollo de videojuegos, programación orientada a objetos, gestión de escenas y diseño de experiencias interactivas.
+
+**🔗 Repositorio:** [MauAlcantara1/Metal-Slug-Unity](https://github.com/MauAlcantara1/Metal-Slug-Unity)
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Videojuegos](https://img.shields.io/badge/Proyecto-Videojuego-red?style=for-the-badge)
+![Multijugador](https://img.shields.io/badge/Modo-2%20Jugadores-orange?style=for-the-badge)
 <table>
 <tr>
 <td>
