@@ -8,7 +8,7 @@
 </p>
 
 <h4 align="center">
-Soy estudiante de séptimo semestre de Ingeniería en Computación, con un creciente interés en el desarrollo con Python, el análisis de datos y el aprendizaje automático. 
+Soy estudiante de octavo semestre de Ingeniería en Computación, con un creciente interés en el desarrollo con Python, el análisis de datos y el aprendizaje automático. 
 Me apasiona la programación, el diseño y la experimentación, especialmente cuando implican entender el "por qué" detrás de los datos y los sistemas inteligentes.
 
 Disfruto aprender constantemente, explorar nuevas tecnologías y aplicar soluciones prácticas a problemas reales. Me considero una persona curiosa, tranquila y con facilidad para socializar, siempre abierta a colaborar y seguir desarrollándome en el área de Data Science e Inteligencia Artificial.
