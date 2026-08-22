@@ -1,230 +1,285 @@
-<h2 align="center"> Hola, Soy Alcantara Cruz Donovan Amaury <br/></h2> 
-<h3 align="center">Aunque me suelen decir Mau <br> <br></h3> 
+<h2 align="center">Hola, soy Alcantara Cruz Donovan Amaury 👋</h2>
+<h3 align="center">Aunque me suelen decir Mau</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=470&lines=Estudiante+de+Ingenier%C3%ADa+en+Computaci%C3%B3n;Me+gusta+la;Programaci%C3%B3n+Web;Programaci%C3%B3n+de+videojuegos;Base+de+Datos;Modelado+3D;Machine+Learning;An%C3%A1lisis+de+Datos;Redes+Neuronales;Con+ganas+de+aprender+%3A)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+en+Computaci%C3%B3n;Desarrollo+Web;Desarrollo+de+Videojuegos;Python;An%C3%A1lisis+de+Datos;Inteligencia+Artificial;Bases+de+Datos;Siempre+aprendiendo+%3A)" alt="Typing SVG" />
   </a>
 </p>
 
-<h4 align="center">
-Soy estudiante de octavo semestre de Ingeniería en Computación, con un creciente interés en el desarrollo con Python, el análisis de datos y el aprendizaje automático. 
-Me apasiona la programación, el diseño y la experimentación, especialmente cuando implican entender el "por qué" detrás de los datos y los sistemas inteligentes.
+---
 
-Disfruto aprender constantemente, explorar nuevas tecnologías y aplicar soluciones prácticas a problemas reales. Me considero una persona curiosa, tranquila y con facilidad para socializar, siempre abierta a colaborar y seguir desarrollándome en el área de Data Science e Inteligencia Artificial.
-</h4>
-<br>
+## 👨‍💻 Sobre mí
 
-<table>
-<tr>
-<td width="50%">
+Soy estudiante de **Ingeniería en Computación**, interesado en el desarrollo de software y en la creación de proyectos que me permitan aplicar y ampliar mis conocimientos.
 
-#### 🐍 Desarrollo en Python
-En aprendizaje del lenguaje Python y enfocado en realizar proyectos para mejorar mi nivel.
-Desarrollo proyectos en Python enfocados en lógica, automatización y construcción de sistemas funcionales.
+Me gusta trabajar en diferentes áreas de la tecnología, especialmente en **desarrollo web, Python, análisis de datos, inteligencia artificial, videojuegos y bases de datos**.
 
-**Proyectos destacados:**
-- 📂 [Organizador Inteligente de Archivos Académicos](https://github.com/MauAlcantara1/Organizador-Inteligente-de-Archivos-Acad-micos)  
-- 🎮 [RPG en Python](https://github.com/MauAlcantara1/rpg-en-python)
-- 📂 [Aprendiendo Python](https://github.com/MauAlcantara1/AprendiendoPython)
-
-</td>
-<td width="50%">
-
-#### 🧠 Data Science & Machine Learning
-Actualmente aprendiendo y explorando el mundo del análisis de datos y machine learning con Python, entendiendo cómo transformar datos en información útil.
-
-**Enfoque:** aprender, experimentar y aplicar
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🔄 Aprendizaje Continuo
-Siempre aprendiendo nuevas tecnologías, conceptos y formas de mejorar como desarrollador. Me gusta entender a fondo cómo funcionan las cosas y evolucionar constantemente.
-
-**Mentalidad:** mejora continua todos los días
-
-</td>
-<td width="50%">
-
-#### 🌿 Git y Trabajo en Equipo
-Experiencia trabajando con Git y GitHub en entornos colaborativos. He enseñado Git como proyecto académico y frecuentemente tomo el rol de organizar repositorios y flujos de trabajo en equipo.
-
-**Habilidades:** ramas, merges, resolución de conflictos, buenas prácticas
-
-</td>
-</tr>
-</table>
+Disfruto aprender nuevas tecnologías, trabajar en equipo y convertir ideas en proyectos funcionales.
 
 ---
 
-## 🎯 Proyecto Destacado
+## 🚀 Proyectos destacados
 
-<table>
-<tr>
-<td>
+### 🧩 Compilador educativo — Canvas Compiler
 
-### 🎨 canvas-compiler
-> *Compilador educativo para que los niños aprendan a programar dibujando*
+Compilador educativo desarrollado para que los usuarios puedan aprender conceptos básicos de programación mediante una interfaz visual basada en un canvas.
 
-Un compilador diseñado con un propósito especial: **hacer que los niños aprendan a programar** a través de dibujos interactivos en un canvas. El proyecto implementa un lenguaje propio que los pequeños pueden usar para crear figuras y formas, convirtiendo la programación en una experiencia visual y divertida.
+El proyecto involucra conceptos de **compiladores, análisis léxico y sintáctico**, además de una interfaz orientada al aprendizaje.
 
-Desarrollado en **Java**, demuestra conocimientos en diseño de compiladores, análisis léxico-sintáctico y desarrollo orientado a la educación.
+**Tecnologías:** Java, compiladores.
 
-**🔗 Repositorio:** [AlnOtzar/canvas-compiler](https://github.com/AlnOtzar/canvas-compiler)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Compiladores](https://img.shields.io/badge/Compiladores-Dise%C3%B1o-blue?style=for-the-badge)
-![Educación](https://img.shields.io/badge/Enfoque-Educativo-green?style=for-the-badge)
-
-</td>
-</tr>
-</table>
-
----
-### 🎮 Metal-Slug-Unity
-> *Proyecto final: recreación del clásico arcade Metal Slug en Unity*
-
-Un juego completo desarrollado como proyecto final de curso que simula la experiencia de **Metal Slug**. Implementa 5 niveles jugables, 1 tutorial, 6 tipos de enemigos, sistema de puntuación, vidas, game over, selección de niveles, sonido, animaciones y modo para **dos jugadores**.
-
-Desarrollado en **Unity con C#**, demuestra conocimientos en desarrollo de videojuegos, programación orientada a objetos, gestión de escenas y diseño de experiencias interactivas.
-
-**🔗 Repositorio:** [MauAlcantara1/Metal-Slug-Unity](https://github.com/MauAlcantara1/Metal-Slug-Unity)
-
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Videojuegos](https://img.shields.io/badge/Proyecto-Videojuego-red?style=for-the-badge)
-![Multijugador](https://img.shields.io/badge/Modo-2%20Jugadores-orange?style=for-the-badge)
-<table>
-<tr>
-<td>
-
-### Mi forma de mejorar
-> Mejorar cada día, paso a paso, siendo una mejor versión de mí mismo sin olvidar disfrutar el camino. Creo en la importancia de seguir adelante incluso cuando las cosas se complican, manteniendo siempre la curiosidad y el deseo de aprender. Cada día representa una nueva oportunidad para crecer, descubrir y construir algo mejor que ayer.
-
-> *"Mientras haya vida, hay esperanza."* — Stephen Hawking
-
-</td>
-</tr>
-</table>
----
-
-## 📊 Aprendiendo: Data Science & Machine Learning
-
-> 🚧 **En construcción activa** — Estoy documentando mi proceso de aprendizaje en estas tecnologías. Aún no tengo proyectos terminados en esta área, pero es mi enfoque principal actualmente.
-
-<div align="center">
-
-| Herramienta | Estado |
-|---|---|
-| 🐍 Python | ⬛⬛⬛⬛⬜ Aprendiendo activamente |
-| 📊 NumPy | ⬛⬛⬛⬜⬜ En progreso |
-| 🐼 Pandas | ⬛⬛⬛⬜⬜ En progreso |
-| 🤖 scikit-learn | ⬛⬛⬜⬜⬜ Iniciando |
-| 🧠 TensorFlow | ⬛⬜⬜⬜⬜ Explorando |
-| 📓 Jupyter | ⬛⬛⬛⬛⬜ Uso frecuente |
-
-</div>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy" title="NumPy" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas" title="Pandas" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter" title="Jupyter" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow" title="TensorFlow" />
-  <img width="10" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" alt="sklearn" title="scikit-learn" />
-</div>
-
-<br>
-
-```text
-📌 Áreas de enfoque:
-   → Machine Learning         (supervisado / no supervisado)
-   → Redes Neuronales         (conceptos y arquitecturas)
-   → Análisis de Datos        (limpieza, visualización, insights)
-```
+🔗 [Ver repositorio](https://github.com/AlnOtzar/canvas-compiler)
 
 ---
 
-<h1 align="center">Lenguajes de Programación</h1>
+### 🎮 RPG 2D — Unity
+
+Videojuego RPG 2D desarrollado en Unity como proyecto de desarrollo de videojuegos.
+
+El proyecto permitió trabajar con programación orientada a objetos, sistemas de juego, escenas, personajes e interacción dentro de un entorno 2D.
+
+**Tecnologías:** Unity, C#.
+
+🔗 [Ver repositorio](https://github.com/AlnOtzar/RPG-UnityGame)
+
+---
+
+### 🕹️ Metal Slug — Unity
+
+Proyecto de videojuego inspirado en el clásico **Metal Slug**, desarrollado como una recreación utilizando Unity.
+
+Incluye diferentes niveles, enemigos, sistema de puntuación, vidas, selección de niveles, animaciones, sonido y modo para dos jugadores.
+
+**Tecnologías:** Unity, C#.
+
+🔗 [Ver repositorio](https://github.com/MauAlcantara1/Metal-Slug-Unity)
+
+---
+
+### 🔫 Proyecto FPS — Unity
+
+Proyecto de videojuego en primera persona desarrollado en Unity, enfocado en la implementación de mecánicas propias de un juego FPS.
+
+**Tecnologías:** Unity, C#.
+
+🔗 [Ver repositorio](https://github.com/MauAlcantara1/Proyecto-FPS)
+
+---
+
+### 🥽 Proyecto de Realidad Virtual
+
+Proyecto enfocado en el desarrollo de una experiencia utilizando tecnologías de **realidad virtual**, trabajando con interacción y elementos tridimensionales.
+
+**Tecnologías:** Unity, C#.
+
+🔗 [Ver repositorio](https://github.com/MauAlcantara1/Proyecto-Realidad-Virtual)
+
+---
+
+### 🎟️ Sistema de Venta de Boletos de Cine
+
+Aplicación desarrollada para gestionar la **venta de boletos de cine**, trabajando con funcionalidades relacionadas con usuarios, películas y procesos de compra.
+
+Proyecto desarrollado como parte de la materia de **Ingeniería de Software**, aplicando conceptos de desarrollo y organización de proyectos de software.
+
+🔗 [Ver repositorio](https://github.com/MarMontejo04/proyecto-cine-ingenieria-software)
+
+---
+
+### 🎓 Sistema de Inscripciones
+
+Sistema web para la gestión de **inscripciones**, desarrollado como proyecto académico.
+
+Permite trabajar con información de usuarios y procesos relacionados con el registro de estudiantes.
+
+**Tecnologías:** Desarrollo web, bases de datos.
+
+🔗 [Ver repositorio](https://github.com/MarMontejo04/inscripciones_ico)
+
+---
+
+### 💿 Plataforma de Compra y Venta de Vinilos
+
+Plataforma web para la **compra y venta de discos de vinilo**.
+
+Los usuarios pueden crear una cuenta, iniciar sesión, administrar su perfil, publicar vinilos para venta y consultar productos disponibles.
+
+El proyecto también incluye un **chatbot** capaz de ayudar a encontrar vinilos mediante criterios como género, artista y disponibilidad.
+
+**Tecnologías:** HTML, CSS, JavaScript, Python, Node.js, Chatbot.
+
+🔗 [Ver repositorio](https://github.com/MauAlcantara1/Equipo-5-Venta-de-vinilos)
+
+---
+
+### 📊 Análisis de Estudiantes
+
+Aplicación web enfocada en el **análisis de información académica de estudiantes en situación de riesgo**.
+
+El sistema permite subir un archivo PDF relacionado con las calificaciones de los estudiantes y procesar la información para presentar resultados mediante **estadísticas y gráficas**, facilitando la interpretación de los datos.
+
+**Tecnologías:** Python, HTML, CSS, análisis de datos, procesamiento de archivos y visualización de datos.
+
+🔗 [Ver repositorio](https://github.com/MauAlcantara1/Pagina-Web-de-Analisis-de-Estudiantes)
+
+---
+
+### 🤖 Asistente Personal
+
+Proyecto de un **asistente personal** desarrollado para experimentar con automatización, interacción con el usuario y diferentes funcionalidades mediante programación.
+
+**Tecnologías:** Python.
+
+🔗 [Ver repositorio](https://github.com/MauAlcantara1/AsistentePersonal)
+
+---
+
+### 🧠 EduPredict
+
+Plataforma web de apoyo académico diseñada para una **secundaria mexicana**, enfocada en el uso de herramientas tecnológicas para apoyar el seguimiento y análisis del desempeño académico.
+
+**Tecnologías:** Desarrollo web, análisis de datos e inteligencia artificial.
+
+🔗 [Ver repositorio](https://github.com/MauAlcantara1/MauAlcantara1-EduPredict---Plataforma-Web-de-apoyo-acad-mico-dise-ada-para-una-secundaria-mexicana)
+
+---
+
+### 🐉 Dragon Wiki — Android
+
+Aplicación Android que obtiene información mediante una **API externa** y la presenta dentro de la aplicación.
+
+Incluye funcionalidades de **creación de cuentas e inicio de sesión**, además de la consulta y visualización de información relacionada con dragones.
+
+**Tecnologías:** Android, XML, APIs.
+
+🔗 [Ver repositorio](https://github.com/MauAlcantara1/ProyectoXML)
+
+---
+
+### 🧠 NovaFlow — Sistema de Automatización Empresarial
+
+Proyecto enfocado en el desarrollo de un **sistema de automatización empresarial**, con una arquitectura dividida entre frontend y backend.
+
+El proyecto contempla funcionalidades para la gestión empresarial, incluyendo **inicio de sesión, dashboard, consulta y administración de productos e inventario**, además de módulos orientados a automatización y **Machine Learning**.
+
+Actualmente se encuentra en desarrollo, con una primera versión enfocada en establecer la base del sistema, autenticación, dashboard y gestión de inventario.
+
+**Tecnologías:** Desarrollo web, Backend, Frontend, Bases de Datos, Machine Learning.
+
+🔗 [Ver repositorio](https://github.com/MauAlcantara1/NovaFlow)
+
+
+## 🛠️ Tecnologías y herramientas
+
+### Lenguajes de programación
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="C#" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="C" />
 </div>
 
-###
-
-<h1 align="center">Desarrollo Frontend</h1>
-
-###
+### Desarrollo Web
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" />
 </div>
 
-###
-
-<h1 align="center">Bases de Datos</h1>
-
-###
+### Bases de Datos
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
 </div>
 
-###
-
-<h1 align="center">Software y Herramientas</h1>
-
-###
+### Data Science & Machine Learning
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="TensorFlow" />
 </div>
 
-###
+### Desarrollo de videojuegos
+
+* 🎮 Unity
+* 💻 C#
+* 🧩 Programación orientada a objetos
+* 🎮 Desarrollo 2D y 3D
+* 🥽 Realidad Virtual
+
+### Herramientas
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
+</div>
+
+---
+
+## 📚 Áreas de interés
+
+* 💻 Desarrollo de software
+* 🌐 Desarrollo web
+* 🐍 Python
+* 📊 Análisis de datos
+* 🤖 Inteligencia Artificial
+* 🧠 Machine Learning
+* 🎮 Desarrollo de videojuegos
+* 🥽 Realidad Virtual
+* 🗄️ Bases de datos
+* 📱 Desarrollo de aplicaciones móviles
+* 🔧 Ingeniería de Software
+
+---
+
+## 🌱 Aprendizaje continuo
+
+Me interesa seguir desarrollándome como ingeniero de software, adquiriendo experiencia mediante proyectos y explorando nuevas tecnologías.
+
+Actualmente busco fortalecer especialmente mis conocimientos en **Python, análisis de datos, inteligencia artificial y desarrollo de software**.
+
+---
+
+## 📫 Contacto
 
 <div align="center">
   <a href="https://www.linkedin.com/in/donovan-amaury-alcantara-cruz-635901370/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MauAlcantara1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MauAlcantara1&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=MauAlcantara1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub streak" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MauAlcantara1&radius=16&theme=dracula&area=true&order=5" height="300" alt="GitHub activity graph" />
 </div>
+
 
