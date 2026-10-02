@@ -114,6 +114,11 @@ Mejorar cada día, paso a paso, siendo una mejor versión de mí mismo sin olvid
 </tr>
 </table>
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MauAlcantara1&show_icons=true&theme=dracula&hide_border=false&border_radius=5&count_private=true&include_all_commits=true" height="170" alt="estadisticas de github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauAlcantara1&layout=compact&theme=dracula&hide_border=false&border_radius=5" height="170" alt="lenguajes mas usados" />
+</div>
 ---
 
 ## 📊 Aprendiendo: Data Science & Machine Learning
